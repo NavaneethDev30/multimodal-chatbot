@@ -1,0 +1,13 @@
+# Python venvs
+chatbot_env/
+new_env/
+__pycache__/
+
+# Large binaries
+*.dll
+*.pyd
+*.lib
+
+# OS junk
+.DS_Store
+Thumbs.db

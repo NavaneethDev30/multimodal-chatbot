@@ -1,0 +1,5 @@
+gradio==4.28.0
+transformers==4.41.0
+torch==2.7.1
+ollama==0.1.0
+pillow==10.3.0
