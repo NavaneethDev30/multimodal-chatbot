@@ -1,0 +1,264 @@
+{
+  "3rd sem ise": [
+    {
+      "code": "BCS301",
+      "title": "Mathematics for Computer Science",
+      "credits": 4,
+      "Important questions":["Write a program to perform binary search on a sorted array.",
+                            "Write a program to sort an array using quicksort/mergesort.",
+                            "Write a program to find the kth largest element in an array.",
+                            "Write a program to find HCF and LCM of two numbers without using inbuilt functions.",
+                            "Write a program to check if a number is prime using iteration.",
+                            "Write a program to find factorial of a number using recursion."
+                            ],
+      "units": [
+        { "unit": 1, "topics": ["Matrices", "Determinants", "Vector Spaces", "Rank of a Matrix"] },
+        { "unit": 2, "topics": ["Probability", "Random Variables", "Expectation & Variance"] },
+        { "unit": 3, "topics": ["Linear Algebra Applications", "Systems of Equations", "Eigenvalues & Eigenvectors"] },
+        { "unit": 4, "topics": ["Graph Theory Basics", "Trees, Connectivity", "Euler & Hamiltonian Paths"] },
+        { "unit": 5, "topics": ["Transform Methods", "Z-Transform", "Discrete Fourier Transform (concepts)"] }
+      ]
+      
+    },
+    {
+      "code": "BCS302",
+      "title": "Digital Design & Computer Organization",
+      "credits": 3,
+      "Important questions":["Write a program to perform binary search on a sorted array.",
+                            "Write a program to sort an array using quicksort/mergesort.",
+                            "Write a program to find the kth largest element in an array.",
+                            "Write a program to find HCF and LCM of two numbers without using inbuilt functions.",
+                            "Write a program to check if a number is prime using iteration.",
+                            "Write a program to find factorial of a number using recursion."
+                            ],
+      "units": [
+        { "unit": 1, "topics": ["Number Systems", "Boolean Algebra", "Logic Simplification (K-map)"] },
+        { "unit": 2, "topics": ["Combinational Circuits", "Adders, Multiplexers, Encoders, Decoders"] },
+        { "unit": 3, "topics": ["Sequential Circuits", "Flip-Flops", "Registers", "Counters"] },
+        { "unit": 4, "topics": ["Processor Architecture", "Instruction Set", "Data Path & Control Unit"] },
+        { "unit": 5, "topics": ["Memory Organization", "Cache Basics", "I/O Interfaces"] }
+      ]
+    },
+    {
+      "code": "BCS303",
+      "title": "Data Structures",
+      "credits": 4,
+      "units": [
+        { "unit": 1, "topics": ["Abstract Data Types", "Arrays, Linked Lists", "Complexity analysis"] },
+        { "unit": 2, "topics": ["Stacks & Queues", "Applications", "Circular & Priority Queues"] },
+        { "unit": 3, "topics": ["Trees", "Binary Trees", "Tree Traversals", "Binary Search Trees"] },
+        { "unit": 4, "topics": ["Graphs", "Representation", "BFS/DFS", "Shortest Paths (Dijkstra)"] },
+        { "unit": 5, "topics": ["Hashing", "Hash Tables", "Collision Resolution Techniques"] }
+      ]
+    },
+    {
+      "code": "BCS304",
+      "title": "Discrete Structures",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Sets, Relations, Functions"] },
+        { "unit": 2, "topics": ["Propositional & Predicate Logic", "Proof Techniques"] },
+        { "unit": 3, "topics": ["Counting, Permutations & Combinations"] },
+        { "unit": 4, "topics": ["Recurrence Relations", "Generating Functions"] },
+        { "unit": 5, "topics": ["Algebraic Structures (Groups, Monoids) - basic concepts"] }
+      ]
+    }
+  ],
+  "4th sem ise": [
+    {
+      "code": "BCS401",
+      "title": "Design & Analysis of Algorithms",
+      "credits": 4,
+      "units": [
+        { "unit": 1, "topics": ["Algorithm Complexity", "Big O, Theta, Omega Notations"] },
+        { "unit": 2, "topics": ["Divide & Conquer", "Merge Sort, Quick Sort", "Master Theorem"] },
+        { "unit": 3, "topics": ["Greedy Algorithms", "Activity Selection, Huffman Coding"] },
+        { "unit": 4, "topics": ["Dynamic Programming", "Knapsack, Longest Common Subsequence"] },
+        { "unit": 5, "topics": ["Graph Algorithms", "Minimum Spanning Tree, Shortest Paths"] }
+      ]
+    },
+    {
+      "code": "BCS402",
+      "title": "Operating Systems",
+      "credits": 4,
+      "units": [
+        { "unit": 1, "topics": ["Introduction to OS", "Functions, Types, System Calls"] },
+        { "unit": 2, "topics": ["Process Management", "Scheduling Algorithms", "Threads"] },
+        { "unit": 3, "topics": ["Synchronization", "Deadlock, Semaphores, Monitors"] },
+        { "unit": 4, "topics": ["Memory Management", "Paging, Segmentation, Virtual Memory"] },
+        { "unit": 5, "topics": ["File Systems & I/O", "Disk Scheduling"] }
+      ]
+    },
+    {
+      "code": "BCS403",
+      "title": "Database Management Systems",
+      "credits": 4,
+      "units": [
+        { "unit": 1, "topics": ["Introduction to DBMS", "Data Models", "ER Modeling"] },
+        { "unit": 2, "topics": ["Relational Model", "Normalization (1NF,2NF,3NF)"] },
+        { "unit": 3, "topics": ["SQL Queries", "Joins, Subqueries, Views"] },
+        { "unit": 4, "topics": ["Transactions", "ACID Properties", "Concurrency Control"] },
+        { "unit": 5, "topics": ["NoSQL Basics", "Indexing and Query Optimization"] }
+      ]
+    },
+    {
+      "code": "BCS404",
+      "title": "Object Oriented Programming",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["OOP Concepts", "Classes & Objects", "Encapsulation"] },
+        { "unit": 2, "topics": ["Inheritance & Polymorphism", "Abstract Classes, Interfaces"] },
+        { "unit": 3, "topics": ["Exception Handling", "File I/O"] },
+        { "unit": 4, "topics": ["Templates/Generics", "Collections & Data Structures"] },
+        { "unit": 5, "topics": ["Design Patterns - Intro (Singleton, Factory)"] }
+      ]
+    }
+  ],
+  "5th sem ise": [
+    {
+      "code": "BCS501",
+      "title": "Artificial Intelligence",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Introduction to AI", "Agents & Environments", "Problem Solving"] },
+        { "unit": 2, "topics": ["Search Algorithms", "Uninformed & Informed Search", "Heuristics"] },
+        { "unit": 3, "topics": ["Knowledge Representation", "Logic-based Representation"] },
+        { "unit": 4, "topics": ["Machine Learning Basics (Supervised/Unsupervised)"] },
+        { "unit": 5, "topics": ["AI Applications", "Speech, Vision, Robotics basics"] }
+      ]
+    },
+    {
+      "code": "BCS502",
+      "title": "Computer Networks",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Network Models", "OSI & TCP/IP", "Physical Layer basics"] },
+        { "unit": 2, "topics": ["Data Link Layer", "Error Detection & Correction", "Ethernet"] },
+        { "unit": 3, "topics": ["Network Layer", "IP Addressing", "Routing Algorithms"] },
+        { "unit": 4, "topics": ["Transport Layer", "TCP/UDP", "Flow & Congestion Control"] },
+        { "unit": 5, "topics": ["Application Layer", "DNS, HTTP, Email, FTP"] }
+      ]
+    },
+    {
+      "code": "BCS503",
+      "title": "Software Engineering",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Software Process Models", "Waterfall, Agile, Spiral"] },
+        { "unit": 2, "topics": ["Requirements Engineering", "SRS"] },
+        { "unit": 3, "topics": ["Design (UML)", "Architectural Styles"] },
+        { "unit": 4, "topics": ["Testing Techniques", "Unit, Integration, System Testing"] },
+        { "unit": 5, "topics": ["Maintenance & Project Management basics"] }
+      ]
+    },
+    {
+      "code": "BCS504",
+      "title": "Big Data Analytics",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Big Data Concepts", "Characteristics of Big Data"] },
+        { "unit": 2, "topics": ["Hadoop Ecosystem", "HDFS, MapReduce"] },
+        { "unit": 3, "topics": ["Spark Basics", "RDDs, DataFrames"] },
+        { "unit": 4, "topics": ["Data Processing & Analysis", "ETL pipelines"] },
+        { "unit": 5, "topics": ["Big Data Applications & Case Studies"] }
+      ]
+    }
+  ],
+  "6th sem ise": [
+    {
+      "code": "BCS601",
+      "title": "Machine Learning",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Supervised Learning", "Linear Regression", "Logistic Regression", "k-NN"] },
+        { "unit": 2, "topics": ["Unsupervised Learning", "K-Means", "Hierarchical Clustering", "PCA"] },
+        { "unit": 3, "topics": ["Evaluation Metrics", "Confusion Matrix", "Precision/Recall", "ROC-AUC"] },
+        { "unit": 4, "topics": ["Feature Engineering", "Scaling, Encoding, Feature Selection"] },
+        { "unit": 5, "topics": ["ML Applications", "Intro to Deep Learning concepts", "Model Deployment basics"] }
+      ]
+    },
+    {
+      "code": "BCS602",
+      "title": "Theory of Computation",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Finite Automata", "Regular Languages", "Regex"] },
+        { "unit": 2, "topics": ["Context Free Grammars", "Pushdown Automata"] },
+        { "unit": 3, "topics": ["Turing Machines", "Decidability"] },
+        { "unit": 4, "topics": ["Complexity Classes", "P vs NP basics"] },
+        { "unit": 5, "topics": ["Reducibility & Undecidability examples"] }
+      ]
+    },
+    {
+      "code": "BCS603",
+      "title": "Information Security",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Security Concepts", "CIA Triad", "Threats & Vulnerabilities"] },
+        { "unit": 2, "topics": ["Cryptography Basics", "Symmetric & Asymmetric Cryptosystems"] },
+        { "unit": 3, "topics": ["Network Security", "Firewalls, VPNs"] },
+        { "unit": 4, "topics": ["Application Security", "OWASP Top 10"] },
+        { "unit": 5, "topics": ["Security Management", "Policies, Risk Assessment"] }
+      ]
+    }
+  ],
+  "7th sem ise": [
+    {
+      "code": "BCS701",
+      "title": "Cloud Computing",
+      "credits": 4,
+      "units": [
+        { "unit": 1, "topics": ["Cloud Models", "IaaS, PaaS, SaaS"] },
+        { "unit": 2, "topics": ["Virtualization Concepts", "Hypervisors"] },
+        { "unit": 3, "topics": ["Cloud Storage", "Object vs Block Storage"] },
+        { "unit": 4, "topics": ["Security in Cloud", "Identity & Access Management"] },
+        { "unit": 5, "topics": ["Cloud Applications", "Serverless, Microservices"] }
+      ]
+    },
+    {
+      "code": "BCS702",
+      "title": "Natural Language Processing",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Text Processing", "Tokenization, Stemming, Lemmatization"] },
+        { "unit": 2, "topics": ["Language Models", "n-grams, RNNs, Transformers (intro)"] },
+        { "unit": 3, "topics": ["Word Embeddings", "Word2Vec, GloVe"] },
+        { "unit": 4, "topics": ["Sequence Labeling", "POS tagging, NER"] },
+        { "unit": 5, "topics": ["Applications", "Text Classification, Summarization"] }
+      ]
+    },
+    {
+      "code": "BCS703",
+      "title": "Project Work / Elective",
+      "credits": 3,
+      "units": [
+        { "unit": 1, "topics": ["Project Proposal & Problem Definition"] },
+        { "unit": 2, "topics": ["Literature Survey & Requirements"] },
+        { "unit": 3, "topics": ["Design & Implementation"] },
+        { "unit": 4, "topics": ["Testing & Evaluation"] },
+        { "unit": 5, "topics": ["Report Writing & Presentation"] }
+      ]
+    },
+    {
+      "code": "BIS714B",
+      "title": "Software Quality assurance",
+      "credits": 3,
+      "units":[
+        {"unit": 1, "topics": ["whats is software quality & assurance "] },
+        { "unit": 2, "topics": ["software errors and faults"] },
+        { "unit": 3, "topics": ["waterfall model,iterative "] },
+        { "unit": 4, "topics": ["SQA Tools ,Standards and Models"] },
+        { "unit": 5, "topics": ["Benefits of SQA,Challenges of SQA"]}
+      ]
+    }
+  ],
+  "svce bengaluru": {
+    "name": "Sri Venkateshwara College of Engineering",
+    "location": "Vidyanagar, Kempegowda International Airport Road, Bettahalsoor Post Chikkajala Bengaluru North Taluk, Bengaluru Urban District Karnataka – 562157.",
+    "established": 2001,
+    "affiliation": "AUTONOMOUS",
+    "programs": ["ISE", "CSE", "ECE", "ME", "Civil"],
+    "website": "https://svcengg.edu.in/",
+    "info": "SVCE Bengaluru is a reputed engineering college affiliated to VTU offering undergraduate and postgraduate programs in engineering and technology."
+  }
+}
